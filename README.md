@@ -2,6 +2,8 @@
 First trial project
 
 Project Outline:
+
+"""
 Version Control with Git:
 
 Initialize a Git repository for your project.
@@ -106,3 +108,4 @@ Now, update the Ansible playbook to use the public IP address of the EC2 instanc
 This simple project will give you hands-on experience with Git, Ansible, and Terraform. Feel free to adapt and expand upon it as you explore more advanced features and scenarios!
 
 
+"""
